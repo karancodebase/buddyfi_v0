@@ -24,7 +24,7 @@ export default function Navbar() {
           <Github className="text-neutral-400" />
         </Link>
         <Link
-          href="https://app.buddyfi.xyz"
+          href="https://buddyfii.vercel.app/"
           className="px-4 py-2 cursor-pointer rounded bg-blue-500 hover:bg-blue-400 text-white font-medium transition"
         >
           Get Started
